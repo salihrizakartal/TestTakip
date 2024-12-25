@@ -1,0 +1,17 @@
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\bin\Debug\net6.0\TestTakip.BusinessLayer.deps.json
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\bin\Debug\net6.0\TestTakip.BusinessLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\bin\Debug\net6.0\TestTakip.BusinessLayer.pdb
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\bin\Debug\net6.0\TestTakip.DataAccessLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\bin\Debug\net6.0\TestTakip.EntityLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\bin\Debug\net6.0\TestTakip.DataAccessLayer.pdb
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\bin\Debug\net6.0\TestTakip.EntityLayer.pdb
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\obj\Debug\net6.0\TestTakip.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\obj\Debug\net6.0\TestTakip.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\obj\Debug\net6.0\TestTakip.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\obj\Debug\net6.0\TestTakip.BusinessLayer.AssemblyInfo.cs
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\obj\Debug\net6.0\TestTakip.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\obj\Debug\net6.0\TestTakip.BusinessLayer.csproj.CopyComplete
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\obj\Debug\net6.0\TestTakip.BusinessLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\obj\Debug\net6.0\refint\TestTakip.BusinessLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\obj\Debug\net6.0\TestTakip.BusinessLayer.pdb
+C:\Users\salih\source\repos\TestTakip\TestTakip.BusinessLayer\obj\Debug\net6.0\ref\TestTakip.BusinessLayer.dll

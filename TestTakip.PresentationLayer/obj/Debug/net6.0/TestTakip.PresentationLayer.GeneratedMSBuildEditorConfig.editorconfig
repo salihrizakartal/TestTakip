@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TestTakip.PresentationLayer
+build_property.RootNamespace = TestTakip.PresentationLayer
+build_property.ProjectDir = C:\Users\salih\source\repos\TestTakip\TestTakip.PresentationLayer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\salih\source\repos\TestTakip\TestTakip.PresentationLayer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/AdminLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/CreateKorozyonEmplyoee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXENyZWF0ZUtvcm96eW9uRW1wbHlvZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/CreateTMKEmplyoee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXENyZWF0ZVRNS0VtcGx5b2VlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/CreateVibrasyonEmplyoee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXENyZWF0ZVZpYnJhc3lvbkVtcGx5b2VlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/KorozyonList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXEtvcm96eW9uTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/TMKList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXFRNS0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/UpdateKorozyonEmplyoee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXFVwZGF0ZUtvcm96eW9uRW1wbHlvZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/UpdateTMKEmplyoee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXFVwZGF0ZVRNS0VtcGx5b2VlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/UpdateVibrasyonEmplyoee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXFVwZGF0ZVZpYnJhc3lvbkVtcGx5b2VlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/VibrasyonList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXFZpYnJhc3lvbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/KorozyonJobList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xLb3JvenlvbkpvYkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/TMKJobList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xUTUtKb2JMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/VibrasyonJobList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xWaWJyYXN5b25Kb2JMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/Components/_CustomTempleteLayoutPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0N1c3RvbVRlbXBsZXRlTGF5b3V0UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/Components/_FooterLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlckxheW91dENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/Components/_HeadLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRMYXlvdXRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/Components/_MainPanelLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01haW5QYW5lbExheW91dENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/Components/_ScriptsLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NjcmlwdHNMYXlvdXRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/Components/_SidebarLayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NpZGViYXJMYXlvdXRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-401qe0upel

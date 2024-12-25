@@ -1,0 +1,14 @@
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\bin\Debug\net6.0\TestTakip.EntityLayer.deps.json
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\bin\Debug\net6.0\TestTakip.EntityLayer.runtimeconfig.json
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\bin\Debug\net6.0\TestTakip.EntityLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\bin\Debug\net6.0\TestTakip.EntityLayer.pdb
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\obj\Debug\net6.0\TestTakip.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\obj\Debug\net6.0\TestTakip.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\obj\Debug\net6.0\TestTakip.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\obj\Debug\net6.0\TestTakip.EntityLayer.AssemblyInfo.cs
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\obj\Debug\net6.0\TestTakip.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\obj\Debug\net6.0\TestTakip.EntityLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\obj\Debug\net6.0\refint\TestTakip.EntityLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\obj\Debug\net6.0\TestTakip.EntityLayer.pdb
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\obj\Debug\net6.0\TestTakip.EntityLayer.genruntimeconfig.cache
+C:\Users\salih\source\repos\TestTakip\TestTakip.EntityLayer\obj\Debug\net6.0\ref\TestTakip.EntityLayer.dll

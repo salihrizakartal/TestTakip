@@ -1,0 +1,15 @@
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\bin\Debug\net6.0\TestTakip.DataAccessLayer.deps.json
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\bin\Debug\net6.0\TestTakip.DataAccessLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\bin\Debug\net6.0\TestTakip.DataAccessLayer.pdb
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\bin\Debug\net6.0\TestTakip.EntityLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\bin\Debug\net6.0\TestTakip.EntityLayer.pdb
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\obj\Debug\net6.0\TestTakip.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\obj\Debug\net6.0\TestTakip.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\obj\Debug\net6.0\TestTakip.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\obj\Debug\net6.0\TestTakip.DataAccessLayer.AssemblyInfo.cs
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\obj\Debug\net6.0\TestTakip.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\obj\Debug\net6.0\TestTakip.DataAccessLayer.csproj.CopyComplete
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\obj\Debug\net6.0\TestTakip.DataAccessLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\obj\Debug\net6.0\refint\TestTakip.DataAccessLayer.dll
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\obj\Debug\net6.0\TestTakip.DataAccessLayer.pdb
+C:\Users\salih\source\repos\TestTakip\TestTakip.DataAccessLayer\obj\Debug\net6.0\ref\TestTakip.DataAccessLayer.dll
