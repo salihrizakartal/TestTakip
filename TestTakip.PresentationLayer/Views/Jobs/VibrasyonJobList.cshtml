@@ -8,7 +8,7 @@
 }
 
 
-    <div class="container">
+<div class="container">
     <div class="page-inner">
         <div class="page-header">
             <h3 class="fw-bold mb-3">Vibrasyon</h3>
@@ -58,8 +58,8 @@
                                 <div class="modal-content">
                                     <div class="modal-header border-0">
                                         <h5 class="modal-title">
-                                            <span class="fw-mediumbold"> New</span>
-                                            <span class="fw-light"> Row </span>
+                                            <span class="fw-mediumbold">Yeni</span>
+                                            <span class="fw-light"> Görev </span>
                                         </h5>
                                         <button type="button"
                                                 class="close"
@@ -69,10 +69,10 @@
                                         </button>
                                     </div>
                                     <div class="modal-body">
-                                        <p class="small">
+                                        @*<p class="small">
                                             Create a new row using this form, make sure you
                                             fill them all
-                                        </p>
+                                        </p>*@
                                         <form>
                                             <div class="row">
                                                 <div class="col-sm-12">
@@ -136,9 +136,9 @@
                                         <th style="width: 10%">Güncelle/Sil</th>
                                     </tr>
                                 </thead>
-                            
+
                                 <tbody>
-                                   @foreach(var item in Model)
+                                    @foreach (var item in Model)
                                     {
                                         if (item.TestName == "Vibrasyon")
                                         {
@@ -150,7 +150,7 @@
                                                 <td>@item.PowerPlantName</td>
                                                 <td>@item.City</td>
                                                 <td>@item.Description</td>
-                                                
+
                                                 <td>
                                                     <div class="form-button-action">
                                                         <button type="button"
@@ -172,17 +172,21 @@
                                             </tr>
 
 
-                                            
+
                                         }
                                     }
 
 
-                              
+
                                 </tbody>
-                              
+
                             </table>
-                            @Html.PagedListPager((IPagedList)Model,page => Url.Action("VibrasyonJobList",new{page}))
-                            
+                            @Html.PagedListPager((IPagedList)Model,page => Url.Action("VibrasyonJobList",new{page}),new PagedListRenderOptions
+                            {
+                            LiElementClasses=new List<string>
+                            {"page-link"}
+                            })
+
 
                         </div>
                     </div>
