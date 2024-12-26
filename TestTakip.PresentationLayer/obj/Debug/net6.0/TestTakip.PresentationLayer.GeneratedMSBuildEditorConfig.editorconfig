@@ -84,6 +84,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xUTUtKb2JMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/UpdateTMKJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xVcGRhdGVUTUtKb2IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/UpdateVibrasyonJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xVcGRhdGVWaWJyYXN5b25Kb2IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/VibrasyonJobList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xWaWJyYXN5b25Kb2JMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

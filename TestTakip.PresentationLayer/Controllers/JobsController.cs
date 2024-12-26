@@ -107,5 +107,61 @@ namespace TestTakip.PresentationLayer.Controllers
 
             return RedirectToAction("KorozyonJobList");
         }
+
+
+        //Görev Silme
+
+        //Vibrasyon
+        public IActionResult DeleteVibrasyonJob(int id)
+        {
+            _jobService.TDelete(id);
+            return RedirectToAction("VibrasyonJobList");
+        }
+
+        //TMK
+        public IActionResult DeleteTMKJob(int id)
+        {
+            _jobService.TDelete(id);
+            return RedirectToAction("TMKJobList");
+        }
+
+        //Korozyon
+        public IActionResult DeleteKorozyonJob(int id)
+        {
+            _jobService.TDelete(id);
+            return RedirectToAction("KorozyonJobList");
+        }
+
+        //Görev Güncelleme
+
+        //Vibrasyon
+
+        [HttpGet]
+        public IActionResult UpdateVibrasyonJob(int id)
+        {
+            var value = _jobService.TGetById(id);
+            return View(value);
+        }
+        [HttpPost]
+        public IActionResult UpdateVibrasyonJob(Job job)
+        {
+            _jobService.TUpdate(job);
+            return RedirectToAction("VibrasyonJobList");
+        }
+
+        //TMK
+
+        [HttpGet]
+        public IActionResult UpdateTMKJob(int id)
+        {
+            var value = _jobService.TGetById(id);
+            return View(value);
+        }
+        [HttpPost]
+        public IActionResult UpdateTMKJob(Job job)
+        {
+            _jobService.TUpdate(job);
+            return RedirectToAction("TMKJobList");
+        }
     }
 }
