@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using TestTakip.BusinessLayer.Abstract;
 using TestTakip.EntityLayer.Concrete;
 using X.PagedList;
@@ -139,8 +140,11 @@ namespace TestTakip.PresentationLayer.Controllers
         [HttpGet]
         public IActionResult UpdateVibrasyonJob(int id)
         {
-            var value = _jobService.TGetById(id);
-            return View(value);
+
+            var values = _jobService.TGetAll();
+            ViewBag.jobs = new SelectList(values, "JobId", "EmplyoeeName");
+            var jobValues = _jobService.TGetById(id);
+            return View(jobValues);
         }
         [HttpPost]
         public IActionResult UpdateVibrasyonJob(Job job)
@@ -154,14 +158,36 @@ namespace TestTakip.PresentationLayer.Controllers
         [HttpGet]
         public IActionResult UpdateTMKJob(int id)
         {
-            var value = _jobService.TGetById(id);
-            return View(value);
+            var values = _jobService.TGetAll();
+            ViewBag.jobs = new SelectList(values, "JobId", "EmplyoeeName");
+            var jobValues = _jobService.TGetById(id);
+            return View(jobValues);
         }
+
         [HttpPost]
+
         public IActionResult UpdateTMKJob(Job job)
         {
             _jobService.TUpdate(job);
             return RedirectToAction("TMKJobList");
+        }
+        //Korozyon
+
+        [HttpGet]
+        public IActionResult UpdateKorozyonJob(int id)
+        {
+            var values = _jobService.TGetAll();
+            ViewBag.jobs = new SelectList(values, "JobId", "EmplyoeeName");
+            var jobValues = _jobService.TGetById(id);
+            return View(jobValues);
+        }
+
+        [HttpPost]
+
+        public IActionResult UpdateKorozyonJob(Job job)
+        {
+            _jobService.TUpdate(job);
+            return RedirectToAction("KorozyonJobList");
         }
     }
 }

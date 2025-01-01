@@ -44,6 +44,7 @@
 
                             <tbody>
                                 <form method="post">
+                                    <input type="hidden" asp-for="JobId"/>
                                     <label>Personel Adı</label>
                                     <input type="text" asp-for="EmplyoeeName" class="form-control" />
                                     <label>Test Tarihi</label>
@@ -57,7 +58,7 @@
                                     <label>Açıklama</label>
                                     <input type="text" asp-for="Description" class="form-control" />
                                     <br />
-                                    <button class="btn btn-primary">Görev Güncelle</button>
+                                    <button class="btn btn-success">Görev Güncelle</button>
                                 </form>
 
                             </tbody>
