@@ -51,6 +51,18 @@ namespace TestTakip.PresentationLayer.Controllers
 
         }
 
+        //Yönetici
+        public IActionResult EmplyoeeList()
+        {
+
+            var values = _emplyoeeService.TGetAll();
+
+
+            return View(values);
+
+
+        }
+
         //Personel Ekleme
 
         //Vibrasyon
@@ -100,6 +112,20 @@ namespace TestTakip.PresentationLayer.Controllers
         }
 
 
+        //Yönetici
+        [HttpGet]
+
+        public IActionResult CreateEmplyoee()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CreateEmplyoee(Emplyoee emplyoee)
+        {
+            _emplyoeeService.TInsert(emplyoee);
+            return RedirectToAction("EmplyoeeList");
+        }
         //Personel Silme
 
         //Vibrasyon
@@ -124,6 +150,14 @@ namespace TestTakip.PresentationLayer.Controllers
             _emplyoeeService.TDelete(id);
             return RedirectToAction("KorozyonList");
         }
+
+        //Yönetici
+        public IActionResult DeleteEmplyoee(int id)
+        {
+            _emplyoeeService.TDelete(id);
+            return RedirectToAction("EmplyoeeList");
+        }
+
         //Personel Güncelleme
 
         //Vibrasyon
@@ -170,6 +204,21 @@ namespace TestTakip.PresentationLayer.Controllers
             _emplyoeeService.TUpdate(emplyoee);
             return RedirectToAction("KorozyonList");
         }
+
+        //Yönetici
+        [HttpGet]
+        public IActionResult UpdateEmplyoee(int id)
+        {
+            var value = _emplyoeeService.TGetById(id);
+            return View(value);
+        }
+        [HttpPost]
+        public IActionResult UpdateEmplyoee(Emplyoee emplyoee)
+        {
+            _emplyoeeService.TUpdate(emplyoee);
+            return RedirectToAction("EmplyoeeList");
+        }
+
 
     }
 }

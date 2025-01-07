@@ -55,6 +55,19 @@ namespace TestTakip.PresentationLayer.Controllers
 
         }
 
+        //Yönetici
+        public IActionResult JobList()
+        {
+
+            var values = _jobService.TGetAll();
+
+
+            return View(values);
+
+
+        }
+
+
         //Görev Ekleme
 
         //Vibrasyon
@@ -110,6 +123,23 @@ namespace TestTakip.PresentationLayer.Controllers
         }
 
 
+        //Yönetici
+
+        [HttpGet]
+
+        public IActionResult CreateJob()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CreateJob(Job job)
+        {
+            _jobService.TInsert(job);
+
+            return RedirectToAction("JobList");
+        }
+
         //Görev Silme
 
         //Vibrasyon
@@ -131,6 +161,13 @@ namespace TestTakip.PresentationLayer.Controllers
         {
             _jobService.TDelete(id);
             return RedirectToAction("KorozyonJobList");
+        }
+
+        //Yönetici
+        public IActionResult DeleteJob(int id)
+        {
+            _jobService.TDelete(id);
+            return RedirectToAction("JobList");
         }
 
         //Görev Güncelleme
@@ -189,5 +226,26 @@ namespace TestTakip.PresentationLayer.Controllers
             _jobService.TUpdate(job);
             return RedirectToAction("KorozyonJobList");
         }
+
+        //Yönetici
+
+        [HttpGet]
+        public IActionResult UpdateJob(int id)
+        {
+            var values = _jobService.TGetAll();
+            ViewBag.jobs = new SelectList(values, "JobId", "EmplyoeeName");
+            var jobValues = _jobService.TGetById(id);
+            return View(jobValues);
+        }
+
+        [HttpPost]
+
+        public IActionResult UpdateJob(Job job)
+        {
+            _jobService.TUpdate(job);
+            return RedirectToAction("JobList");
+        }
+
+
     }
 }

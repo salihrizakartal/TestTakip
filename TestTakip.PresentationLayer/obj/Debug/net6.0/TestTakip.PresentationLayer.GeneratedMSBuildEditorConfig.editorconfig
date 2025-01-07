@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/CreateEmplyoee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXENyZWF0ZUVtcGx5b2VlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/CreateKorozyonEmplyoee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXENyZWF0ZUtvcm96eW9uRW1wbHlvZWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,12 +36,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXENyZWF0ZVZpYnJhc3lvbkVtcGx5b2VlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/EmplyoeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXEVtcGx5b2VlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/KorozyonList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXEtvcm96eW9uTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/TMKList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXFRNS0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/UpdateEmplyoee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbHlvZWVzXFVwZGF0ZUVtcGx5b2VlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Emplyoees/UpdateKorozyonEmplyoee.cshtml]
@@ -64,6 +76,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/CreateJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xDcmVhdGVKb2IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/CreateKorozyonJob.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xDcmVhdGVLb3JvenlvbkpvYi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -76,12 +92,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xDcmVhdGVWaWJyYXN5b25Kb2IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/JobList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xKb2JMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/KorozyonJobList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xLb3JvenlvbkpvYkxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/TMKJobList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xUTUtKb2JMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/UpdateJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xVcGRhdGVKb2IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Jobs/UpdateKorozyonJob.cshtml]

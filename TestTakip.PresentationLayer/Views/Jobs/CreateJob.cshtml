@@ -1,0 +1,81 @@
+﻿@using X.PagedList.Mvc.Core;
+@using X.PagedList;
+@model Job
+@{
+    ViewData["Title"] = "CreateJob";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+
+<div class="container">
+    <div class="page-inner">
+        <div class="page-header">
+            <h3 class="fw-bold mb-3">Vibrasyon</h3>
+            <ul class="breadcrumbs mb-3">
+                <li class="nav-home">
+                    <a href="#">
+                        <i class="icon-home"></i>
+                    </a>
+                </li>
+                <li class="separator">
+                    <i class="icon-arrow-right"></i>
+                </li>
+                <li class="nav-item">
+                    <a href="#">Görevler</a>
+                </li>
+                <li class="separator">
+                    <i class="icon-arrow-right"></i>
+                </li>
+                <li class="nav-item">
+                    <a href="#">Görev Ekle</a>
+                </li>
+            </ul>
+        </div>
+        <div class="row">
+
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="d-flex align-items-center">
+                            <h4 class="card-title">Vibrasyon</h4>
+
+                        </div>
+                    </div>
+                    <div class="table-responsive">
+                        <table id="Görev Ekle"
+                               class="display table table-striped table-hover">
+
+                            <tbody>
+                                <form method="post">
+                                    <label>Personel Adı</label>
+                                    <input type="text" asp-for="EmplyoeeName" class="form-control" />
+                                    <label>Test Tarihi</label>
+                                    <input type="text" asp-for="JobDate" class="form-control" />
+                                    <label>Test Adı</label>
+                                    <input type="text" asp-for="TestName" class="form-control" />
+                                    <label>Santral</label>
+                                    <input type="text" asp-for="PowerPlantName" class="form-control" />
+                                    <label>Şehir</label>
+                                    <input type="text" asp-for="City" class="form-control" />
+                                    <label>Açıklama</label>
+                                    <input type="text" asp-for="Description" class="form-control" />
+                                    <br />
+                                    <button class="btn btn-primary">Yeni Görev Ekle</button>
+                                </form>
+
+                            </tbody>
+
+                        </table>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
