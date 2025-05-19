@@ -29,8 +29,20 @@
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\README.md"
     },
     {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\bootstrap.css"
+    },
+    {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\dataTables.bootstrap4.min.css"
     },
     {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\demo.css",
@@ -71,6 +83,10 @@
     {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\plugins.min.css",
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\css\\responsive.bootstrap4.min.css"
     },
     {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\fonts\\fontawesome\\fa-brands-400.eot",
@@ -1501,6 +1517,22 @@
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\img\\visa.svg"
     },
     {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\buttons.print.min.js"
+    },
+    {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\core\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\core\\bootstrap.min.js"
     },
@@ -1513,8 +1545,32 @@
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\core\\popper.min.js"
     },
     {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\dataTables.responsive.min.js"
+    },
+    {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\demo.js",
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\jquery-3.3.1.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\jquery-3.3.1.js"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\jszip.min.js"
     },
     {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\kaiadmin.js",
@@ -1523,6 +1579,10 @@
     {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\kaiadmin.min.js",
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\kaiadmin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\pdfmake.min.js"
     },
     {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
@@ -1633,12 +1693,20 @@
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\plugin\\webfont\\webfont.min.js"
     },
     {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\responsive.bootstrap4.min.js"
+    },
+    {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\setting-demo.js",
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\setting-demo.js"
     },
     {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\setting-demo2.js",
       "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\setting-demo2.js"
+    },
+    {
+      "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\assets\\js\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\kaiadmin-lite-1.2.0\\assets\\js\\vfs_fonts.js"
     },
     {
       "Id": "C:\\Users\\salih\\source\\repos\\TestTakip\\TestTakip.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\charts\\charts.html",

@@ -14,6 +14,7 @@ namespace TestTakip.EntityLayer.Concrete
         public int TestId { get; set; }
         public string TestName { get; set; }
         public string PowerPlantName { get; set; }
-        public DateTime TestDate { get; set; }
+        public DateTime StartDate { get; set; }
+        public DateTime EndDate { get; set; }
     }
 }

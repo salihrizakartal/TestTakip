@@ -124,6 +124,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xWaWJyYXN5b25Kb2JMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/Components/_CustomTempleteLayoutPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0N1c3RvbVRlbXBsZXRlTGF5b3V0UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -154,6 +158,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/TestPlans/KorozyonPlanList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFBsYW5zXEtvcm96eW9uUGxhbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/TestPlans/TestPlanExport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFBsYW5zXFRlc3RQbGFuRXhwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/TestPlans/TestPlanList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFBsYW5zXFRlc3RQbGFuTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/TestPlans/TMKPlanList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFBsYW5zXFRNS1BsYW5MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/TestPlans/VibrasyonPlanList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFBsYW5zXFZpYnJhc3lvblBsYW5MaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/salih/source/repos/TestTakip/TestTakip.PresentationLayer/Views/_ViewImports.cshtml]

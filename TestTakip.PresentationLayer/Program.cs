@@ -16,6 +16,9 @@ builder.Services.AddScoped<IEmplyoeeService, EmplyoeeManager>();
 builder.Services.AddScoped<IJobDal, EfJobDal>();
 builder.Services.AddScoped<IJobService, JobManager>();
 
+builder.Services.AddScoped<ITestPlanDal, EfTestPlanDal>();
+builder.Services.AddScoped<ITestPlanService, TestPlanManager>();
+
 
 builder.Services.AddControllersWithViews();
 
